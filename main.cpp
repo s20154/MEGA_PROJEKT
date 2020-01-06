@@ -6,8 +6,8 @@
 using namespace std;
 
 #define ESC 27
-#define MAX_X 40
-#define MAX_Y 10
+#define MAX_X 120
+#define MAX_Y 30
 #define MIN_X 0
 #define MIN_Y 0
 
